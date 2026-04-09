@@ -1,60 +1,74 @@
-# 🧠 Miniguia de Estudos com IA - NotebookLM
+# 🤖 IA em Automação - Miniguia de Estudos com NotebookLM
 
 ## 📌 Contexto e Objetivos
 
-Este projeto tem como objetivo explorar o uso da Inteligência Artificial como ferramenta de aprendizagem ativa, utilizando o NotebookLM para organizar conhecimentos sobre:
+Este projeto explora o uso da Inteligência Artificial aplicada à automação de processos, com foco em como a IA pode otimizar tarefas repetitivas, tomada de decisão e integração entre sistemas.
 
-👉 Tema escolhido: Inteligência Artificial no Desenvolvimento de Software
+O estudo foi realizado utilizando o NotebookLM como ferramenta de apoio para organização e análise de conteúdos.
 
 ### 🎯 Objetivos:
-- Compreender os conceitos fundamentais de IA Generativa
-- Aprender como utilizar IA no desenvolvimento de software
-- Melhorar habilidades de engenharia de prompts
-- Criar um material reutilizável para estudos futuros
+- Entender como a IA pode ser aplicada em automações reais
+- Explorar o uso de IA em bots e processos automatizados
+- Aprimorar habilidades de engenharia de prompts
+- Criar um guia prático reutilizável
 
 ---
 
 ## 📚 Curadoria de Fontes
 
-As seguintes fontes foram utilizadas no NotebookLM:
+As seguintes fontes foram utilizadas:
 
-1. https://www.ibm.com/topics/artificial-intelligence
-2. https://platform.openai.com/docs/introduction
-3. https://developers.google.com/machine-learning/crash-course
-4. https://www.microsoft.com/en-us/ai
-5. https://aws.amazon.com/what-is/artificial-intelligence/
+1. https://platform.openai.com/docs/introduction  
+2. https://aws.amazon.com/what-is/artificial-intelligence/  
+3. https://cloud.google.com/learn/what-is-artificial-intelligence  
+4. https://www.ibm.com/topics/automation  
+5. https://learn.microsoft.com/en-us/ai/  
 
 ---
 
 ## ⚙️ Engenharia de Prompts e "Cicatrizes"
 
 ### 🔍 Prompt 1:
-**"Explique o que é IA Generativa de forma simples"**
+**"O que é IA aplicada à automação?"**
 
-✔️ Resultado: Resposta clara e objetiva  
-❗ Dificuldade: Falta de exemplos práticos  
+✔️ Resultado: Definição básica  
+❗ Problema: Muito genérico  
 
 ---
 
 ### 🔍 Prompt 2:
-**"Explique IA Generativa com exemplos reais no desenvolvimento de software"**
+**"Explique como usar IA em automação com exemplos práticos (bots, trading, automação de tarefas)"**
 
-✔️ Resultado: Melhor compreensão  
-✔️ Insight: Prompts com contexto geram respostas melhores  
+✔️ Resultado: Muito mais completo  
+✔️ Insight: Contexto melhora MUITO a resposta  
 
 ---
 
 ### 🔍 Prompt 3:
-**"Quais são os riscos do uso de IA no desenvolvimento?"**
+**"Quais são os riscos de usar IA em automação sem validação?"**
 
-✔️ Resultado: Identificação de problemas como código ruim e dependência  
+✔️ Resultado:
+- Erros automatizados em escala  
+- Decisões incorretas  
+- Dependência da IA  
 
 ---
 
-### 🧠 Aprendizados:
-- Prompts específicos geram respostas melhores  
-- Iteração é essencial  
-- A IA precisa de contexto para entregar valor  
+### 🔍 Prompt 4:
+**"Como melhorar um bot automatizado usando IA?"**
+
+✔️ Resultado:
+- Uso de dados históricos  
+- Ajuste de parâmetros  
+- Aprendizado contínuo  
+
+---
+
+### 🧠 Aprendizados (Cicatrizes):
+- Prompts vagos = respostas ruins  
+- IA precisa de contexto claro  
+- Sempre validar resultados  
+- Automação + erro = problema em escala  
 
 ---
 
@@ -62,37 +76,59 @@ As seguintes fontes foram utilizadas no NotebookLM:
 
 ### 📝 Resumo
 
-A Inteligência Artificial Generativa é capaz de criar conteúdos como textos, códigos e imagens. No desenvolvimento de software, ela atua como copiloto, auxiliando programadores a produzir código mais rapidamente.
+A IA em automação permite que sistemas realizem tarefas de forma inteligente, adaptativa e eficiente. Ela é amplamente utilizada em bots, sistemas de trading, atendimento automático e processos empresariais.
 
-Entretanto, seu uso exige pensamento crítico, pois pode gerar erros e soluções ineficientes.
+Diferente da automação tradicional, que segue regras fixas, a automação com IA pode aprender com dados, tomar decisões e se adaptar a diferentes cenários.
 
 ---
 
 ### 📚 Glossário
 
-- **IA Generativa**: IA capaz de criar novos conteúdos  
-- **Prompt**: Instrução dada à IA  
-- **Copiloto**: IA que auxilia o desenvolvedor  
-- **Machine Learning**: Aprendizado baseado em dados  
-- **Trash Apps**: Aplicações de baixa qualidade geradas sem validação  
+- **IA (Inteligência Artificial)**: Sistemas capazes de simular inteligência humana  
+- **Automação**: Execução automática de tarefas  
+- **IA Generativa**: IA que cria conteúdo (texto, código, etc.)  
+- **Bot**: Programa automatizado que executa tarefas  
+- **Machine Learning**: IA que aprende com dados  
+- **Prompt**: Comando dado à IA  
+- **Trash Apps**: Sistemas ruins gerados sem validação  
 
 ---
 
 ### 🔁 Prompts Reutilizáveis
 
-- "Explique [tema] de forma simples e com exemplos"
-- "Quais são as vantagens e desvantagens de [tema]?"
-- "Explique como aplicar [tema] na prática"
-- "Liste erros comuns ao usar [tecnologia]"
+- "Explique como aplicar IA em [tipo de automação]"
+- "Quais são os riscos de automatizar [processo] com IA?"
+- "Como melhorar um bot de [função] usando IA?"
+- "Liste boas práticas para automação com IA"
+- "Quais erros evitar ao usar IA em automação?"
+
+---
+
+## 🚀 Aplicações Práticas
+
+- Bots de trading automatizados  
+- Automação com Python (ex: PyAutoGUI)  
+- Integração com APIs  
+- Processamento de dados em tempo real  
+- Automação de tarefas repetitivas  
+
+---
+
+## ⚠️ Cuidados no Uso
+
+- Validar sempre os resultados  
+- Evitar dependência total da IA  
+- Monitorar automações em tempo real  
+- Implementar logs e controle de erros  
 
 ---
 
 ## 🚀 Conclusão
 
-Este projeto demonstrou como a IA pode ser utilizada como uma poderosa ferramenta de aprendizado, desde que usada com pensamento crítico e boas práticas.
+A IA aplicada à automação é uma poderosa aliada para aumentar produtividade e eficiência. No entanto, seu uso exige responsabilidade, validação constante e conhecimento técnico para evitar erros em larga escala.
 
 ---
 
 ## 🔗 Link do Projeto
 
-(Coloque aqui o link do seu repositório após publicar)
+(Adicionar após publicar no GitHub)
