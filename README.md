@@ -122,6 +122,16 @@ O uso da IA na automação representa uma evolução significativa na forma como
 
 ---
 
+## 💻 Aplicação Prática
+
+Durante meus estudos, apliquei conceitos de IA em automação em projetos reais, como:
+
+- Bot automatizado com Python (PyAutoGUI)
+- Integração com Telegram para execução de sinais
+- Automação de processos em tempo real
+
+Esses projetos demonstram na prática como a IA pode ser utilizada para tomada de decisão e automação inteligente.
+
 ## 🔗 Repositório
 
 (Adicionar link aqui)
