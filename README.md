@@ -77,6 +77,9 @@ Durante o desenvolvimento, foram realizados diversos testes para obter respostas
 - Automação com erro pode escalar problemas rapidamente  
 
 ---
+## 🧠 Diferencial
+
+Este projeto não apenas apresenta conceitos, mas também documenta o processo de aprendizado, incluindo testes de prompts, erros e ajustes, demonstrando pensamento crítico no uso de IA.
 
 ## 📖 Miniguia de Estudo
 
