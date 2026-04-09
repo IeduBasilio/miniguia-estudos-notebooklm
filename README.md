@@ -72,6 +72,16 @@ As seguintes fontes foram utilizadas:
 
 ---
 
+## 💻 Experiência Própria
+
+Durante meus estudos, apliquei conceitos de automação com IA em projetos como:
+
+- Bot de trading com sinais automáticos
+- Automação com PyAutoGUI
+- Integração com Telegram para execução de ações
+
+Essas experiências ajudaram a consolidar o uso prático da IA.
+
 ## 📖 Miniguia de Estudo
 
 ### 📝 Resumo
